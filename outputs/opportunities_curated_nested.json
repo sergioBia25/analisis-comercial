@@ -1,0 +1,27 @@
+[
+  {
+    "oportunidad": "DIVERSIONES NEPTUNO S.A.S.",
+    "cliente": "DIVERSIONES NEPTUNO S.A.S.",
+    "inversion_cliente": 2678651.73703,
+    "tarifa_b": 10.0,
+    "opex": 2638963.25,
+    "capex": 39688.48703,
+    "consumo_total": 9890.0,
+    "total_renting": 27740.0,
+    "ciudad": "MEDELLÍN",
+    "fronteras": [
+      {
+        "frontier_name": "3880812",
+        "consumo": 9890.0,
+        "renting": 27740.0,
+        "city": "Antioquia",
+        "ciudad": "MEDELLÍN",
+        "nivel_de_tension": "nivel_1_user",
+        "operador_de_red": "EPM ANTIOQUIA",
+        "provider_actual": "EPM ANTIOQUIA",
+        "provider": "EPM ANTIOQUIA"
+      }
+    ],
+    "provider_objetivo": "BIA ENERGY"
+  }
+]

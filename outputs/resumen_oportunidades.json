@@ -1,0 +1,26 @@
+[
+  {
+    "oportunidad": "DIVERSIONES NEPTUNO S.A.S.",
+    "cliente": "DIVERSIONES NEPTUNO S.A.S.",
+    "inversion_cliente": 2678651.73703,
+    "tarifa_b": 10.0,
+    "opex": 2638963.25,
+    "capex": 39688.48703,
+    "consumo_total": 9890.0,
+    "total_renting": 27740.0,
+    "ciudad": "MEDELLÍN",
+    "Costo actual total por mes": {
+      "2025-04": 7652486.4,
+      "2025-05": 7122975.8,
+      "2025-06": 7220293.4
+    },
+    "Costo Bia total por mes": {
+      "2025-04": 7760888.78,
+      "2025-05": 7864372.35,
+      "2025-06": 7840926.48
+    },
+    "Costo total actual": 21995755.6,
+    "Costo total Bia": 23466187.61,
+    "Ahorro Bia": -1470432.01
+  }
+]

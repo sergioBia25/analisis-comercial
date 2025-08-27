@@ -1,0 +1,48 @@
+[
+  {
+    "oportunidad": "DIVERSIONES NEPTUNO S.A.S.",
+    "cliente": "DIVERSIONES NEPTUNO S.A.S.",
+    "fronteras": [
+      {
+        "frontier_name": "3880812",
+        "city_calculadora": "ANTIOQUIA",
+        "city_tarifas_usada": "ANTIOQUIA",
+        "nivel_de_tension": "nivel_1_user",
+        "provider_actual_calc_norm": "EPM ANTIOQUIA",
+        "provider_actual_tarifas_norm": "EPM",
+        "analisis_mensual": [
+          {
+            "mes": "2025-04",
+            "tarifa_bia": 784.72,
+            "tarifa_actual": 773.76,
+            "consumo_kwh": 9890.0,
+            "costo_bia": 7760888.78,
+            "costo_actual": 7652486.4,
+            "delta_unit": -10.96,
+            "ahorro_mensual_estimado": -108402.38
+          },
+          {
+            "mes": "2025-05",
+            "tarifa_bia": 795.18,
+            "tarifa_actual": 720.22,
+            "consumo_kwh": 9890.0,
+            "costo_bia": 7864372.35,
+            "costo_actual": 7122975.8,
+            "delta_unit": -74.96,
+            "ahorro_mensual_estimado": -741396.55
+          },
+          {
+            "mes": "2025-06",
+            "tarifa_bia": 792.81,
+            "tarifa_actual": 730.06,
+            "consumo_kwh": 9890.0,
+            "costo_bia": 7840926.48,
+            "costo_actual": 7220293.4,
+            "delta_unit": -62.75,
+            "ahorro_mensual_estimado": -620633.08
+          }
+        ]
+      }
+    ]
+  }
+]

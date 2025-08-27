@@ -1,0 +1,50 @@
+[
+  {
+    "oportunidad": "DIVERSIONES NEPTUNO S.A.S.",
+    "frontier_name": "3880812",
+    "mes": "2025-04",
+    "city_tarifas_usada": "ANTIOQUIA",
+    "nivel_comp_fr": "nivel_1_user",
+    "nivel_simple_fr": "NIVEL 1",
+    "nivel_variant_usado": "compuesto",
+    "provider_calc": "EPM ANTIOQUIA",
+    "provider_tarifas_mapeado": "EPM",
+    "provider_usado_para_actual": "EPM",
+    "fallback_usado": false,
+    "fallback_score": null,
+    "encontro_bia": true,
+    "encontro_actual": true
+  },
+  {
+    "oportunidad": "DIVERSIONES NEPTUNO S.A.S.",
+    "frontier_name": "3880812",
+    "mes": "2025-05",
+    "city_tarifas_usada": "ANTIOQUIA",
+    "nivel_comp_fr": "nivel_1_user",
+    "nivel_simple_fr": "NIVEL 1",
+    "nivel_variant_usado": "compuesto",
+    "provider_calc": "EPM ANTIOQUIA",
+    "provider_tarifas_mapeado": "EPM",
+    "provider_usado_para_actual": "EPM",
+    "fallback_usado": false,
+    "fallback_score": null,
+    "encontro_bia": true,
+    "encontro_actual": true
+  },
+  {
+    "oportunidad": "DIVERSIONES NEPTUNO S.A.S.",
+    "frontier_name": "3880812",
+    "mes": "2025-06",
+    "city_tarifas_usada": "ANTIOQUIA",
+    "nivel_comp_fr": "nivel_1_user",
+    "nivel_simple_fr": "NIVEL 1",
+    "nivel_variant_usado": "compuesto",
+    "provider_calc": "EPM ANTIOQUIA",
+    "provider_tarifas_mapeado": "EPM",
+    "provider_usado_para_actual": "EPM",
+    "fallback_usado": false,
+    "fallback_score": null,
+    "encontro_bia": true,
+    "encontro_actual": true
+  }
+]
